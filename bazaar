@@ -1,0 +1,4 @@
+﻿load_system_dawg     T
+load_freq_dawg       T
+user_words_suffix    user-words
+user_patterns_suffix user-patterns
